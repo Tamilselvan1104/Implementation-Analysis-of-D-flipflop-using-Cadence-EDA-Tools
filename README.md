@@ -6,6 +6,7 @@ To design and implement a D-flip-flop using Cadence EDA tools, simulate its beha
 
 ## Tools Required:
 •	Personal Computer
+
 •	Cadence Virtuoso Software
 
 ## Circuit Diagram:
