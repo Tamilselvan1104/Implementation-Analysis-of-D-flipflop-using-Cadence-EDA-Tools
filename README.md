@@ -11,7 +11,8 @@ To design and implement a D-flip-flop using Cadence EDA tools, simulate its beha
 
 ## Circuit Diagram:
 
-![IMG-20241115-WA0008](https://github.com/user-attachments/assets/e21d408b-0416-437d-81e0-e5781a11717d)
+![image](https://github.com/user-attachments/assets/64998d45-09cf-4936-b1bd-82bc7827798f)
+
 
 
 ### SCHEMATICSIMULATION :
